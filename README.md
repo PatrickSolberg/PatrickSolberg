@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrick Solberg
 =======================================================================================================================================
 
-Web Developer And An Aspiring Designer
+Aspiring Software Engineer
 --------------------------------------
 
 * 🌍  I'm based in Bergen, Norway 🇳🇴
 * ✉️  You can contact me at [Patrick.oysteinsen@gmail.com](mailto:Patrick.oysteinsen@gmail.com)
-* 🚀  I'm currently working on [FUTCentral.gg](http://FUTCentral.gg)
+* 🚀  I'm currently working at [Omega365](https://omega365.com/)
 * 🧠  I'm learning Machine Learning / Python / Web3 🚀
-* 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
 
