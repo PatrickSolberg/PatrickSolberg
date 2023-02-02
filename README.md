@@ -6,7 +6,6 @@ Aspiring Software Engineer
 
 * 🌍  I'm based in Bergen, Norway 🇳🇴
 * ✉️  You can contact me at [Patrick.oysteinsen@gmail.com](mailto:Patrick.oysteinsen@gmail.com)
-* 🚀  I'm currently working at [Omega365](https://omega365.com/)
 * 🧠  I'm learning Machine Learning / Python / Web3 🚀
 
 ### Skills
